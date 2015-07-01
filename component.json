@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-clicky",
   "repo": "segment-integrations/analytics.js-integration-clicky",
   "description": "The Clicky analytics.js integration.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
